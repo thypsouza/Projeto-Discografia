@@ -1,0 +1,31 @@
+body{
+    background-image: url("../fotos/fundo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(255,255,255,0.4);
+}
+
+.input-border{
+    background: #fff;
+    border-radius: 30px;
+}
+.alinhamento{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 3px 10px #ccc;
+    margin-bottom: 10px;
+}
+
+.p-10{
+    padding: 10px;
+}
+.search-button{
+    border-radius: 30px;
+    margin-top: 20px;
+}
